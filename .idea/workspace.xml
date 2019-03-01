@@ -31,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jemepresente/onepage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+            <state relative-caret-position="375">
+              <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -83,6 +83,7 @@
         <option value="$PROJECT_DIR$/jemepresente/loisirs.html" />
         <option value="$PROJECT_DIR$/jemepresente/sports.html" />
         <option value="$PROJECT_DIR$/jemepresente/One page.html" />
+        <option value="$PROJECT_DIR$/jemepresente/onepage.html" />
       </list>
     </option>
   </component>
@@ -90,8 +91,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1321" />
-    <option name="y" value="31" />
+    <option name="x" value="126" />
+    <option name="y" value="64" />
     <option name="width" value="1122" />
     <option name="height" value="970" />
   </component>
@@ -100,6 +101,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,7 +118,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -154,16 +155,18 @@
       <workItem from="1551310494305" duration="1861000" />
       <workItem from="1551312377518" duration="1000" />
       <workItem from="1551397733867" duration="2876000" />
+      <workItem from="1551403585177" duration="195000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5416000" />
+    <option name="totallyTimeSpent" value="5611000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="100" y="23" width="1122" height="1028" extended-state="0" />
+    <frame x="126" y="64" width="1122" height="970" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38148147" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3888889" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -227,8 +230,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jemepresente/onepage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        <state relative-caret-position="375">
+          <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
         </state>
       </provider>
     </entry>
