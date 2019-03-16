@@ -7,12 +7,16 @@ body
     margin: auto;
 }
 
+font
+{
+    font-family: Starjedi;
+}
+
 h1
 {
     font-size: 140px;
     color: yellow;
-    font-family: Starjedi.ttf;
-    src: url(".../font/Starjedi.ttf");
+    font-family: Starjedi;
     text-align: center;
     margin: 0px;
 }
