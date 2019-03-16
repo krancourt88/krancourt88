@@ -1,0 +1,110 @@
+body
+{
+    background-image: url("../img/milky-way-starry-sky-night-sky-star-956981.jpg");
+    background-repeat: no-repeat;
+    background-color: black;
+    width; 900px
+    margin:auto;
+}
+
+h1
+{
+    font-family: "American Typewriter";
+    font-size: 36px;
+}
+
+h2
+{
+    font-size: 24px;
+}
+
+h1, h2
+{
+    color: white;
+    text-align: center;
+    margin: 0px;
+}
+
+p{
+    font-family: Arial;
+    font-size: 14 px;
+    text-align: center;
+    color: white;
+}
+
+a{
+    font-family: Arial;
+    font-size: 10px;
+    color: aliceblue;
+    text-decoration: none;
+    text-align: center;
+}
+
+a:visited
+{
+    color: midnightblue;
+}
+
+img{
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: auto;
+    display: block;
+}
+
+table,th,td
+{
+    border: 1px solid white;
+    color: white;
+    font-size: 24px;
+    margin: auto;
+}
+
+ol,li
+{
+    font-family: Arial;
+    text-align: left;
+    color: white;
+    margin: auto
+}
+
+bulle
+{
+    text-align:center;
+    margin: auto
+}
+
+ul
+{
+    display: inline-block;
+    margin: auto
+}
+
+
+
+#mesetudes
+{
+    background-color: black;
+}
+
+#mesloisirs
+{
+    background-color: dimgray;
+}
+
+#mesreves
+{
+    background-color: slategrey;
+}
+
+#messports
+{
+    background-color: midnightblue;
+}
+
+.belleImage
+{
+    border: 1px solid black;
+    border-radius: 4px;
+}
