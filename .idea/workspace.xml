@@ -10,38 +10,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jemepresenteV3/onepageclasses.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="4" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jemepresenteV3/CSS/styleclasses.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Han Solo/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Han Solo/css/style.css">
+        <entry file="file://$PROJECT_DIR$/Exercice 66/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercice 66/js/bootstrap.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Template/css/style.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Template/js/jquery-3.3.1.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Template/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercice 6/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="22" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercice 66/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercice 6/js/jquery-3.3.1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -51,8 +77,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -80,6 +106,13 @@
         <option value="$PROJECT_DIR$/jemepresenteV2/onepage.html" />
         <option value="$PROJECT_DIR$/Han Solo/index.html" />
         <option value="$PROJECT_DIR$/Han Solo/css/style.css" />
+        <option value="$PROJECT_DIR$/HelloBootStrap/style.css" />
+        <option value="$PROJECT_DIR$/HelloBootStrap/exercice 1.html" />
+        <option value="$PROJECT_DIR$/Exercice 6/index.html" />
+        <option value="$PROJECT_DIR$/Template/css/style.css" />
+        <option value="$PROJECT_DIR$/Template/index.html" />
+        <option value="$PROJECT_DIR$/Exercice 66/index.html" />
+        <option value="$PROJECT_DIR$/Exercice 66/css/style.css" />
       </list>
     </option>
   </component>
@@ -87,10 +120,10 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="73" />
-    <option name="y" value="55" />
-    <option name="width" value="1744" />
-    <option name="height" value="911" />
+    <option name="x" value="250" />
+    <option name="y" value="53" />
+    <option name="width" value="1467" />
+    <option name="height" value="972" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -103,6 +136,28 @@
             <path>
               <item name="krancourt88" type="b2602c69:ProjectViewProjectNode" />
               <item name="krancourt88" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="krancourt88" type="b2602c69:ProjectViewProjectNode" />
+              <item name="krancourt88" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercice 6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="krancourt88" type="b2602c69:ProjectViewProjectNode" />
+              <item name="krancourt88" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercice 66" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="krancourt88" type="b2602c69:ProjectViewProjectNode" />
+              <item name="krancourt88" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercice 66" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="krancourt88" type="b2602c69:ProjectViewProjectNode" />
+              <item name="krancourt88" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercice 66" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -122,18 +177,18 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Han Solo" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/jemepresenteV3/img" />
-      <recent name="$PROJECT_DIR$/jemepresenteV2/CSS" />
-      <recent name="$PROJECT_DIR$/jemepresenteAUCAS/img" />
+      <recent name="$PROJECT_DIR$/Exercice 66" />
+      <recent name="$PROJECT_DIR$/Template/js" />
+      <recent name="$PROJECT_DIR$/Template/css" />
+      <recent name="$PROJECT_DIR$/Exercice 6/img" />
+      <recent name="$PROJECT_DIR$/Exercice 6" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Template/js" />
       <recent name="$PROJECT_DIR$/jemepresenteV33/img" />
       <recent name="$PROJECT_DIR$/jemepresenteV33/CSS" />
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/jemepresenteV3/CSS" />
-      <recent name="$PROJECT_DIR$/jemepresente" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -167,22 +222,28 @@
       <workItem from="1552000674379" duration="9584000" />
       <workItem from="1552086861773" duration="244000" />
       <workItem from="1552605550295" duration="8089000" />
-      <workItem from="1552740992252" duration="6931000" />
+      <workItem from="1552740992252" duration="6995000" />
+      <workItem from="1552748892086" duration="12000" />
+      <workItem from="1553212413978" duration="1835000" />
+      <workItem from="1553214639728" duration="18000" />
+      <workItem from="1553817598907" duration="4830000" />
+      <workItem from="1554415370562" duration="2944000" />
+      <workItem from="1554418824100" duration="1120000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30630000" />
+    <option name="totallyTimeSpent" value="41453000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="73" y="55" width="1744" height="911" extended-state="0" />
+    <frame x="250" y="53" width="1467" height="972" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4981685" visible="true" weight="0.26145712" />
-      <window_info id="Structure" order="1" sideWeight="0.50183153" side_tool="true" weight="0.26145712" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4965909" visible="true" weight="0.19719298" />
+      <window_info id="Structure" order="1" sideWeight="0.5034091" side_tool="true" visible="true" weight="0.19719298" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32915717" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3284091" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -240,8 +301,6 @@
     <entry file="file://$PROJECT_DIR$/jemepresenteV2/img/ciel arbre.JPG">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/jemepresenteV3/CSS/styleclasses.css" />
-    <entry file="file://$PROJECT_DIR$/jemepresenteV3/onepageclasses.html" />
     <entry file="file://$PROJECT_DIR$/jemepresenteV3/CSS/style.css" />
     <entry file="file://$PROJECT_DIR$/jemepresenteV2/CSS/style.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -267,17 +326,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jemepresenteV3/onepageclasses.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="4" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jemepresenteV3/CSS/styleclasses.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloBootStrap/exercice 1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloBootStrap/css/bootstrap.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2715">
+          <caret column="181818" selection-end-column="181818" />
         </state>
       </provider>
     </entry>
@@ -288,10 +355,82 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jemepresenteV3/onepageclasses.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloBootStrap/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercice 6/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercice 6/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Han Solo/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        <state relative-caret-position="15">
+          <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="3" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template/js/jquery-3.3.1.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercice 6/js/jquery-3.3.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercice 66/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercice 66/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercice 6/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercice 66/img/laptop.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercice 66/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercice 66/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
         </state>
       </provider>
     </entry>

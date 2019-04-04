@@ -1,0 +1,23 @@
+.bleu
+{
+    height: 100px;
+    background-color: blue;
+}
+
+.rouge
+{
+    height: 100px;
+    background-color: red;
+}
+
+.vert
+{
+    height: 100px;
+    background-color: green;
+}
+
+.jaune
+{
+    height: 100px;
+    background-color: yellow;
+}
