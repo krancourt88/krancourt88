@@ -1,7 +1,7 @@
 .bleu
 {
     height: 100px;
-    background-color: blue;
+    background-color: #0056b3;
 }
 
 .rouge
@@ -30,7 +30,7 @@ html,body
 
 .bg
 {
-    background-image: url("../img/laptop.jpg") ;
+    background-image: url("../img/grrrr.jpg") ;
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -41,17 +41,16 @@ html,body
     height: 100%;
 }
 
-h1
+h1, p
 {
-    font-size: 36px;
-    font-family: Helvetica;
-    text-align: center;
     color: white;
 }
 
-p{
-    font-size: 24px;
-    font-family: Helvetica;
-    text-align: center;
+hr
+{
+    padding-bottom: 5px;
+    padding-top: 5px;
+    max-width: 50px;
+    border-width: 5px;
     color: white;
 }
