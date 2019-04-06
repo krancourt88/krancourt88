@@ -58,6 +58,25 @@ hr
 .fond
 {
     background-color: #117a8b;
-    height: 75%;
+    height: 50%;
     background-position: center;
+}
+
+h3
+{
+    color: black;
+    font-size: 18px;
+}
+
+.fondblanc
+{
+    background-color: white;
+    height: 20%;
+    background-position: center;
+}
+
+h4
+{
+    color: black;
+    font-size: 12px;
 }
