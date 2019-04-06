@@ -13,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Exercice 6/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="58" column="23" lean-forward="true" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
+            <state relative-caret-position="575">
+              <caret line="80" column="29" lean-forward="true" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -77,8 +77,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="112" />
-    <option name="y" value="37" />
+    <option name="x" value="17" />
+    <option name="y" value="36" />
     <option name="width" value="1467" />
     <option name="height" value="972" />
   </component>
@@ -188,15 +188,15 @@
       <workItem from="1554415370562" duration="2944000" />
       <workItem from="1554418824100" duration="3994000" />
       <workItem from="1554423011563" duration="5673000" />
-      <workItem from="1554558030454" duration="458000" />
+      <workItem from="1554558030454" duration="693000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50458000" />
+    <option name="totallyTimeSpent" value="50693000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="112" y="37" width="1467" height="972" extended-state="0" />
+    <frame x="17" y="36" width="1467" height="972" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4943182" visible="true" weight="0.20280702" />
@@ -372,8 +372,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercice 6/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="58" column="23" lean-forward="true" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
+        <state relative-caret-position="575">
+          <caret line="80" column="29" lean-forward="true" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
         </state>
       </provider>
     </entry>
