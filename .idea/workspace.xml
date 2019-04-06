@@ -13,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Exercice 6/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="80" column="29" lean-forward="true" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
+            <state relative-caret-position="645">
+              <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -22,8 +22,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercice 6/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1200">
-              <caret line="80" column="20" selection-start-line="80" selection-start-column="20" selection-end-line="80" selection-end-column="20" />
+            <state relative-caret-position="265">
+              <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -77,8 +77,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="17" />
-    <option name="y" value="36" />
+    <option name="x" value="73" />
+    <option name="y" value="23" />
     <option name="width" value="1467" />
     <option name="height" value="972" />
   </component>
@@ -134,19 +134,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/Template/js" />
-      <recent name="$PROJECT_DIR$/jemepresenteV33/img" />
-      <recent name="$PROJECT_DIR$/jemepresenteV33/CSS" />
-      <recent name="$PROJECT_DIR$/jemepresenteV3/CSS" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Exercice 6/img" />
       <recent name="$PROJECT_DIR$/Exercice 66/img" />
       <recent name="$PROJECT_DIR$/Exercice 66" />
       <recent name="$PROJECT_DIR$/Template/js" />
       <recent name="$PROJECT_DIR$/Template/css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Template/js" />
+      <recent name="$PROJECT_DIR$/jemepresenteV33/img" />
+      <recent name="$PROJECT_DIR$/jemepresenteV33/CSS" />
+      <recent name="$PROJECT_DIR$/jemepresenteV3/CSS" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -188,19 +188,20 @@
       <workItem from="1554415370562" duration="2944000" />
       <workItem from="1554418824100" duration="3994000" />
       <workItem from="1554423011563" duration="5673000" />
-      <workItem from="1554558030454" duration="693000" />
+      <workItem from="1554558030454" duration="2987000" />
+      <workItem from="1554561165371" duration="564000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50693000" />
+    <option name="totallyTimeSpent" value="53551000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="17" y="36" width="1467" height="972" extended-state="0" />
+    <frame x="73" y="23" width="1467" height="972" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4943182" visible="true" weight="0.20280702" />
-      <window_info id="Structure" order="1" sideWeight="0.5056818" side_tool="true" visible="true" weight="0.20280702" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49318182" visible="true" weight="0.20561403" />
+      <window_info id="Structure" order="1" sideWeight="0.5068182" side_tool="true" visible="true" weight="0.20561403" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3284091" />
@@ -301,12 +302,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HelloBootStrap/css/bootstrap.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2715">
           <caret column="181818" selection-end-column="181818" />
         </state>
       </provider>
-      <provider editor-type-id="sourcemapFileViewerProvider" />
     </entry>
     <entry file="file://$PROJECT_DIR$/jemepresenteV3/onepageclasses.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -370,17 +371,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercice 6/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="80" column="29" lean-forward="true" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Exercice 6/img/rose.jpg" />
+    <entry file="file://$PROJECT_DIR$/Exercice 6/img/rosebleu.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercice 6/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="80" column="20" selection-start-line="80" selection-start-column="20" selection-end-line="80" selection-end-column="20" />
+        <state relative-caret-position="265">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercice 6/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
         </state>
       </provider>
     </entry>
