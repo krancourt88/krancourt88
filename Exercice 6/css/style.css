@@ -24,6 +24,18 @@ h1, h2, p
     color: white;
 }
 
+h3
+{
+    color: black;
+    font-size: 18px;
+}
+
+h4
+{
+    color: black;
+    font-size: 12px;
+}
+
 hr
 {
     padding-bottom: 5px;
@@ -41,11 +53,6 @@ hr
     background-position: center;
 }
 
-h3
-{
-    color: black;
-    font-size: 18px;
-}
 
 .fondblanc
 {
@@ -53,11 +60,5 @@ h3
     padding-bottom: 50px;
     padding-top: 50px;
     background-position: center;
-}
-
-h4
-{
-    color: black;
-    font-size: 12px;
 }
 
