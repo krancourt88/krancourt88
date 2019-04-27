@@ -1,15 +1,86 @@
-.html,body
-{
+html,body{
+    margin:0;
     height: 100%;
+}
+.parallax
+{
+    background-image: url("../img/8382.jpg");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     margin: 0;
 }
 
-.bg
+.parallax2
 {
-    background-image: url("../img/zen.jpg");
-    height: 100%;
-    padding-bottom: 200px;
-    padding-top: 200px;
+    background-image: url("../img/plage-parfaite.jpg");
+    height: 500px;
+    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax3
+{
+    background-image: url("../img/ocean.jpg");
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.carreJaune
+{
+    background-color: rgba(224, 217, 29, .5);
+    height: 25%;
+    margin-top: 25%;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 20px;
+}
+
+.carreBlanc
+{
+    background-color: rgba(255, 255, 255, 0.6);
+    padding-top: 85px;
+    padding-bottom: 85px;
+    margin: 0%;
+}
+
+h1
+{
+    color: #117a8b;
+    font-size: 24px;
+    text-align: left;
+}
+
+h2
+{
+    color: #117a8b;
+    font-size: 35px;
+    text-align: left;
+}
+
+h3
+{
+    color: #117a8b;
+    font-size: 24px;
+    text-align: center;
+}
+
+h4
+{
+    color: white;
+    font-size: 35px;
+    text-align: center;
+}
+
+.bleu
+{
+    background-color: #9fcdff;
+    padding: 40px;
 }
