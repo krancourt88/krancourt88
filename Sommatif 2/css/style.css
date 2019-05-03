@@ -55,6 +55,7 @@ h2
     color: #117a8b;
     font-size: 35px;
     text-align: left;
+    font-family: oswald-bold;
 }
 
 h3
@@ -68,8 +69,8 @@ h4
 {
     color: white;
     font-size: 35px;
-    text-align: center;
-    font-family:;
+    text-align: left;
+    font-family:oswald-bold;
 }
 
 .bleu
