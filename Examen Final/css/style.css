@@ -15,7 +15,6 @@ html,body{
 .parallax
 {
     background-image: url("../img/beatles2.jpg");
-    height: 500px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -48,8 +47,8 @@ li
 
 .paddingzone
 {
-    padding-top: 150px;
-    padding-bottom: 150px;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 
 h2
