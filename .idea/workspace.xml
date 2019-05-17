@@ -101,8 +101,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="235" />
-    <option name="y" value="52" />
+    <option name="x" value="89" />
+    <option name="y" value="60" />
     <option name="width" value="1467" />
     <option name="height" value="972" />
   </component>
@@ -128,6 +128,12 @@
               <item name="krancourt88" type="462c0819:PsiDirectoryNode" />
               <item name="Examen Final" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="krancourt88" type="b2602c69:ProjectViewProjectNode" />
+              <item name="krancourt88" type="462c0819:PsiDirectoryNode" />
+              <item name="Examen Final" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="krancourt88" type="b2602c69:ProjectViewProjectNode" />
@@ -230,15 +236,15 @@
       <workItem from="1557499128980" duration="6409000" />
       <workItem from="1557960646921" duration="7947000" />
       <workItem from="1558053420220" duration="187000" />
-      <workItem from="1558053635292" duration="1802000" />
+      <workItem from="1558053635292" duration="2019000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117871000" />
+    <option name="totallyTimeSpent" value="118088000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="113" y="46" width="1467" height="972" extended-state="0" />
+    <frame x="89" y="60" width="1467" height="972" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48181817" visible="true" weight="0.26035088" />
