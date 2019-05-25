@@ -11,16 +11,16 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Examen Final/index.html">
+        <entry file="file://$PROJECT_DIR$/Integrationweb1/Examen Final/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="60">
               <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OLD/Exercice 6/index.html">
+        <entry file="file://$PROJECT_DIR$/Integrationweb1/Exercice 6/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="495">
               <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
@@ -36,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Exercice menu/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="15" column="67" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
+            <state relative-caret-position="261">
+              <caret line="40" column="36" lean-forward="true" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -45,14 +45,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercice menu/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="800">
+            <state relative-caret-position="3030">
               <caret line="202" column="1" selection-start-line="202" selection-start-column="1" selection-end-line="202" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Examen Final/css/style.css">
+        <entry file="file://$PROJECT_DIR$/Integrationweb1/Examen Final/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" selection-start-line="1" selection-end-line="1" />
@@ -61,7 +61,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OLD/facebook exercice 6/index.html">
+        <entry file="file://$PROJECT_DIR$/Integrationweb1/facebook exercice 6/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
               <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
@@ -136,8 +136,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="57" />
-    <option name="y" value="69" />
+    <option name="x" value="174" />
+    <option name="y" value="96" />
     <option name="width" value="1467" />
     <option name="height" value="972" />
   </component>
@@ -163,12 +163,6 @@
               <item name="krancourt88" type="b2602c69:ProjectViewProjectNode" />
               <item name="krancourt88" type="462c0819:PsiDirectoryNode" />
               <item name="Exercice menu" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="krancourt88" type="b2602c69:ProjectViewProjectNode" />
-              <item name="krancourt88" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercice menu" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -187,19 +181,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Exercice menu/img" />
+      <recent name="$PROJECT_DIR$/Integrationweb1" />
+      <recent name="$PROJECT_DIR$/OLD" />
+      <recent name="$PROJECT_DIR$/Examen Final/font" />
+      <recent name="$PROJECT_DIR$/Examen Final/img" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Examen Final/img" />
       <recent name="$PROJECT_DIR$/Exercice Thetford/js" />
       <recent name="$PROJECT_DIR$/Exercice Thetford Mines" />
       <recent name="$PROJECT_DIR$/Exercice 7" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Exercice menu/img" />
-      <recent name="$PROJECT_DIR$/OLD" />
-      <recent name="$PROJECT_DIR$/Examen Final/font" />
-      <recent name="$PROJECT_DIR$/Examen Final/img" />
-      <recent name="$PROJECT_DIR$/Sommatif 2/img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -261,19 +255,20 @@
       <workItem from="1557960646921" duration="7947000" />
       <workItem from="1558053420220" duration="187000" />
       <workItem from="1558053635292" duration="2831000" />
-      <workItem from="1558481130639" duration="2337000" />
+      <workItem from="1558481130639" duration="3269000" />
+      <workItem from="1558792046837" duration="1496000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121237000" />
+    <option name="totallyTimeSpent" value="123665000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="57" y="69" width="1467" height="972" extended-state="0" />
+    <frame x="174" y="96" width="1467" height="972" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4806818" visible="true" weight="0.26385966" />
-      <window_info id="Structure" order="1" sideWeight="0.51931816" side_tool="true" visible="true" weight="0.26385966" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47954544" visible="true" weight="0.26736844" />
+      <window_info id="Structure" order="1" sideWeight="0.5204545" side_tool="true" visible="true" weight="0.26736844" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3284091" />
@@ -297,14 +292,14 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/OLD/jemepresenteV3/CSS/styleclasses.css">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/jemepresenteV3/CSS/styleclasses.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OLD/HelloBootStrap/css/bootstrap.css.map">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/HelloBootStrap/css/bootstrap.css.map">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2715">
           <caret column="181818" selection-end-column="181818" />
@@ -312,7 +307,7 @@
       </provider>
       <provider editor-type-id="sourcemapFileViewerProvider" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/OLD/Exercice 6/js/jquery-3.3.1.js">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/Exercice 6/js/jquery-3.3.1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
@@ -321,39 +316,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OLD/Exercice 6/js/bootstrap.js">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/Exercice 6/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Template/js/jquery-3.3.1.js" />
-    <entry file="file://$PROJECT_DIR$/OLD/Exercice 6/css/bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/Exercice 6/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/OLD/Exercice 6/img/laptop.jpg">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/Exercice 6/img/laptop.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercice 6/img/rose.jpg" />
-    <entry file="file://$PROJECT_DIR$/OLD/Exercice 6/img/rosebleu.jpg">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/Exercice 6/img/rosebleu.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/OLD/HelloBootStrap/css/style.css">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/HelloBootStrap/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OLD/Exercice 7/js/bootstrap.js">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/Exercice 7/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercice Thetford Mines/img/filleinfo.jpg" />
-    <entry file="file://$PROJECT_DIR$/OLD/Exercice 7/css/style.css">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/Exercice 7/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OLD/Exercice 6/img/grrrr.jpg">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/Exercice 6/img/grrrr.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercice Thetford Mines/img/chien.jpg" />
@@ -364,7 +359,7 @@
     <entry file="file://$PROJECT_DIR$/Template/css/style.css" />
     <entry file="file://$PROJECT_DIR$/Template/index.html" />
     <entry file="file://$PROJECT_DIR$/Exercice Thetford/js/jquery-3.3.1.js" />
-    <entry file="file://$PROJECT_DIR$/OLD/Exercice 6/css/style.css">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/Exercice 6/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="14" selection-end-column="1" />
@@ -373,121 +368,107 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercice Thetford/index.html" />
     <entry file="file://$PROJECT_DIR$/Exercice Thetford/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/Sommatif 2/js/bootstrap.js">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/Sommatif 2/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sommatif 2/img/voyage-cuba.jpg">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/Sommatif 2/img/voyage-cuba.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sommatif 2/img/plage-parfaite.jpg">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/Sommatif 2/img/plage-parfaite.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sommatif 2/img/ocean.jpg">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/Sommatif 2/img/ocean.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sommatif 2/img/8382.jpg">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/Sommatif 2/img/8382.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/OLD/Han Solo/css/style.css">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/Han Solo/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Examen Final/js/bootstrap.js">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/Examen Final/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/OLD/facebook exercice 6/Facebook.html">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/facebook exercice 6/Facebook.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Examen Final/img/Photoparalax.jpg">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/Examen Final/img/Photoparalax.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/OLD/facebook exercice 6/CSS/bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/facebook exercice 6/CSS/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/OLD/facebook exercice 6/CSS/styleSemaine7.css">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/facebook exercice 6/CSS/styleSemaine7.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Examen Final/img/portfolio.jpg">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/Examen Final/img/portfolio.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sommatif 2/css/style.css">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/Sommatif 2/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="915">
           <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OLD/HelloBootStrap/exercice 1.html">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/HelloBootStrap/exercice 1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="90" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OLD/Han Solo/index.html">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/Han Solo/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OLD/jemepresenteV3/onepageclasses.html">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/jemepresenteV3/onepageclasses.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1995">
           <caret line="133" column="7" selection-start-line="133" selection-start-column="7" selection-end-line="133" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OLD/facebook exercice 6/CSS/style.css">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/facebook exercice 6/CSS/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OLD/Exercice 7/index.html">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/Exercice 7/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sommatif 2/index.html">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/Sommatif 2/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="59" column="17" selection-start-line="54" selection-start-column="12" selection-end-line="59" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Examen Final/index.html">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/Examen Final/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="60">
           <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Examen Final/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OLD/facebook exercice 6/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OLD/Exercice 6/index.html">
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/Exercice 6/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
@@ -499,15 +480,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercice menu/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
+        <state relative-caret-position="3030">
           <caret line="202" column="1" selection-start-line="202" selection-start-column="1" selection-end-line="202" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/Examen Final/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/facebook exercice 6/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercice menu/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="15" column="67" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
+        <state relative-caret-position="261">
+          <caret line="40" column="36" lean-forward="true" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
         </state>
       </provider>
     </entry>
