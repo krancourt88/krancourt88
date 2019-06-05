@@ -20,51 +20,55 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Integrationweb1/Exercice 6/index.html">
+        <entry file="file://$PROJECT_DIR$/Formulaire/FormulaireEnvoye.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+            <state relative-caret-position="270">
+              <caret line="18" column="61" lean-forward="true" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercice menu/js/bootstrap.js">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Formulaire/recherche.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Integrationweb1/Sommatif 2/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="41" column="59" selection-start-line="41" selection-start-column="59" selection-end-line="41" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Integrationweb1/jemepresenteV3/onepageclasses.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="533">
+              <caret line="133" column="7" selection-start-line="133" selection-start-column="7" selection-end-line="133" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Formulaire/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="389">
+              <caret line="58" column="67" selection-start-line="58" selection-start-column="67" selection-end-line="58" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercice menu/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" column="53" selection-start-line="42" selection-start-column="53" selection-end-line="42" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercice menu/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="73" column="20" lean-forward="true" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Integrationweb1/Examen Final/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Integrationweb1/facebook exercice 6/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+            <state relative-caret-position="600">
+              <caret line="40" column="71" selection-start-line="40" selection-start-column="71" selection-end-line="40" selection-end-column="71" />
             </state>
           </provider>
         </entry>
@@ -129,6 +133,11 @@
         <option value="$PROJECT_DIR$/OLD/Exercice 666/index.html" />
         <option value="$PROJECT_DIR$/Exercice menu/css/style.css" />
         <option value="$PROJECT_DIR$/Exercice menu/index.html" />
+        <option value="$PROJECT_DIR$/CorrectionSeminaire2/modal.html" />
+        <option value="$PROJECT_DIR$/Formulaire/css/style.css" />
+        <option value="$PROJECT_DIR$/Formulaire/FormulaireEnvoye.html" />
+        <option value="$PROJECT_DIR$/Formulaire/index.html" />
+        <option value="$PROJECT_DIR$/Formulaire/recherche.html" />
       </list>
     </option>
   </component>
@@ -136,9 +145,9 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="174" />
-    <option name="y" value="96" />
-    <option name="width" value="1467" />
+    <option name="x" value="-31" />
+    <option name="y" value="23" />
+    <option name="width" value="1679" />
     <option name="height" value="972" />
   </component>
   <component name="ProjectView">
@@ -146,7 +155,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,24 +165,24 @@
             <path>
               <item name="krancourt88" type="b2602c69:ProjectViewProjectNode" />
               <item name="krancourt88" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercice menu" type="462c0819:PsiDirectoryNode" />
+              <item name="Formulaire" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="krancourt88" type="b2602c69:ProjectViewProjectNode" />
               <item name="krancourt88" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercice menu" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="krancourt88" type="b2602c69:ProjectViewProjectNode" />
-              <item name="krancourt88" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercice menu" type="462c0819:PsiDirectoryNode" />
+              <item name="Formulaire" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="krancourt88" type="b2602c69:ProjectViewProjectNode" />
+              <item name="krancourt88" type="462c0819:PsiDirectoryNode" />
+              <item name="Integrationweb1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -188,18 +196,18 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Formulaire/img" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Exercice menu/img" />
       <recent name="$PROJECT_DIR$/Integrationweb1" />
       <recent name="$PROJECT_DIR$/OLD" />
-      <recent name="$PROJECT_DIR$/Examen Final/font" />
-      <recent name="$PROJECT_DIR$/Examen Final/img" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Formulaire" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Examen Final/img" />
       <recent name="$PROJECT_DIR$/Exercice Thetford/js" />
       <recent name="$PROJECT_DIR$/Exercice Thetford Mines" />
-      <recent name="$PROJECT_DIR$/Exercice 7" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -262,22 +270,26 @@
       <workItem from="1558053420220" duration="187000" />
       <workItem from="1558053635292" duration="2831000" />
       <workItem from="1558481130639" duration="3269000" />
-      <workItem from="1558792046837" duration="1777000" />
+      <workItem from="1558792046837" duration="3400000" />
+      <workItem from="1558941314980" duration="295000" />
+      <workItem from="1559083048126" duration="2369000" />
+      <workItem from="1559686425930" duration="349000" />
+      <workItem from="1559687520108" duration="5252000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123946000" />
+    <option name="totallyTimeSpent" value="133834000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="174" y="96" width="1467" height="972" extended-state="0" />
+    <frame x="-31" y="23" width="1679" height="972" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47954544" visible="true" weight="0.26736844" />
-      <window_info id="Structure" order="1" sideWeight="0.5204545" side_tool="true" visible="true" weight="0.26736844" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47377327" visible="true" weight="0.24312767" />
+      <window_info id="Structure" order="1" sideWeight="0.52622676" side_tool="true" weight="0.24312767" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3284091" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3284091" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -298,44 +310,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Integrationweb1/jemepresenteV3/CSS/styleclasses.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Integrationweb1/HelloBootStrap/css/bootstrap.css.map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2715">
-          <caret column="181818" selection-end-column="181818" />
-        </state>
-      </provider>
-      <provider editor-type-id="sourcemapFileViewerProvider" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Integrationweb1/Exercice 6/js/jquery-3.3.1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Integrationweb1/Exercice 6/js/bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Template/js/jquery-3.3.1.js" />
-    <entry file="file://$PROJECT_DIR$/Integrationweb1/Exercice 6/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Integrationweb1/Exercice 6/img/laptop.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercice 6/img/rose.jpg" />
-    <entry file="file://$PROJECT_DIR$/Integrationweb1/Exercice 6/img/rosebleu.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Integrationweb1/HelloBootStrap/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -439,13 +413,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Integrationweb1/jemepresenteV3/onepageclasses.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1995">
-          <caret line="133" column="7" selection-start-line="133" selection-start-column="7" selection-end-line="133" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Integrationweb1/facebook exercice 6/CSS/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -460,20 +427,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Integrationweb1/Sommatif 2/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="59" column="17" selection-start-line="54" selection-start-column="12" selection-end-line="59" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Integrationweb1/Examen Final/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Integrationweb1/Exercice 6/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
@@ -483,6 +436,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercice menu/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CorrectionSeminaire2/modal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="57" selection-start-line="49" selection-start-column="57" selection-end-line="49" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CorrectionSeminaire2/jumbotron.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CorrectionSeminaire2/carousel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercice menu/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="68" column="25" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="25" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Integrationweb1/Examen Final/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -498,17 +475,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercice menu/css/style.css">
+    <entry file="file://$PROJECT_DIR$/Formulaire/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Formulaire/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Formulaire/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Formulaire/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="73" column="20" lean-forward="true" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
+        <state relative-caret-position="389">
+          <caret line="58" column="67" selection-start-line="58" selection-start-column="67" selection-end-line="58" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Formulaire/FormulaireEnvoye.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="61" lean-forward="true" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/Examen Final/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercice menu/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="53" selection-start-line="42" selection-start-column="53" selection-end-line="42" selection-end-column="53" />
+        <state relative-caret-position="600">
+          <caret line="40" column="71" selection-start-line="40" selection-start-column="71" selection-end-line="40" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/Sommatif 2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="59" selection-start-line="41" selection-start-column="59" selection-end-line="41" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Integrationweb1/jemepresenteV3/onepageclasses.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="133" column="7" selection-start-line="133" selection-start-column="7" selection-end-line="133" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Formulaire/recherche.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
         </state>
       </provider>
     </entry>

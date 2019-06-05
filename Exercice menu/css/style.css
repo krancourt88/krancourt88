@@ -71,11 +71,9 @@ h2
     text-shadow: 2px 2px 4px #000000 ;
 }
 
-.navbar-toggler
-{
-    color: white;
+.fa, .fas
+{    color: rgbwo;
 }
-
 
 /* **************************MENU**********/
 
