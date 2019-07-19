@@ -1,0 +1,292 @@
+html,body
+{
+    margin: 0;
+    height: 100%;
+}
+
+.bg
+{
+    background-image: url("../img/piscine-exterieure-hotel.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bgAccueil
+{
+    background-image: url("../img/vacances-ete.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 50px;
+}
+
+.bgPlage
+{
+    background-image: url("../img/plage-en-corse.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+h1
+{
+    color: #117a8b;
+    font-family: "Oswald Medium";
+    font-size: 100px;
+}
+
+h2
+{
+    color: #117a8b;
+    font-family: "Oswald Medium";
+    font-size: 50px;
+}
+
+h3
+{
+    color: white;
+    font-family: "Oswald Medium";
+    font-size: 20px;
+}
+
+
+p
+{
+    color: #1b1e21;
+    font-size: 32px;
+}
+
+
+.fondbleu
+{
+    background-color: #117a8b;
+}
+
+
+
+/* Cellulaires */
+@media only screen and (max-width: 575px)
+{
+    .bg
+    {
+        background-image: url("../img/piscine-exterieure-hotel-cell.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+}
+/* TABLETTES */
+@media screen and (min-width: 576px) and (max-width: 1199px) {
+    .bg
+    {
+        background-image: url("../img/piscine-exterieure-tablette.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+}
+
+/* Cellulaires */
+@media only screen and (max-width: 575px)
+{
+    .bgPlage
+    {
+        background-image: url("../img/plage-en-corse-cell.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+}
+/* TABLETTES */
+@media screen and (min-width: 576px) and (max-width: 1199px) {
+    .bgPlage
+    {
+        background-image: url("../img/plage-en-corse tablette.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+}
+
+/* Cellulaires */
+@media only screen and (max-width: 575px)
+{
+    .bgAccueil
+    {
+        background-image: url("../img/vacances-ete-cell.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    h1
+    {
+        color: #117a8b;
+        font-family: "Oswald Medium";
+        font-size: 75px;
+    }
+}
+/* TABLETTES */
+@media screen and (min-width: 576px) and (max-width: 1199px) {
+    .bgAccueil
+    {
+        background-image: url("../img/vacances-ete-tablette.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    h1
+    {
+        color: #117a8b;
+        font-family: "Oswald Medium";
+        font-size: 80px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+/* **************************MENU**********/
+
+    .navbar {
+        background-color: #599db6;
+    }
+.navbar .navbar-brand {
+    color: #ecf0f1;
+}
+.navbar .navbar-brand:hover,
+.navbar .navbar-brand:focus {
+    color: #dbfffa;
+}
+.navbar .navbar-text {
+    color: #ecf0f1;
+}
+.navbar .navbar-text a {
+    color: #dbfffa;
+}
+.navbar .navbar-text a:hover,
+.navbar .navbar-text a:focus {
+    color: #dbfffa;
+}
+.navbar .navbar-nav .nav-link {
+    color: #ecf0f1;
+    border-radius: .25rem;
+    margin: 0 0.25em;
+}
+.navbar .navbar-nav .nav-link:not(.disabled):hover,
+.navbar .navbar-nav .nav-link:not(.disabled):focus {
+    color: #dbfffa;
+}
+.navbar .navbar-nav .dropdown-menu {
+    background-color: #599db6;
+    border-color: #8e44ad;
+}
+.navbar .navbar-nav .dropdown-menu .dropdown-item {
+    color: #ecf0f1;
+}
+.navbar .navbar-nav .dropdown-menu .dropdown-item:hover,
+.navbar .navbar-nav .dropdown-menu .dropdown-item:focus,
+.navbar .navbar-nav .dropdown-menu .dropdown-item.active {
+    color: #dbfffa;
+    background-color: #8e44ad;
+}
+.navbar .navbar-nav .dropdown-menu .dropdown-divider {
+    border-top-color: #8e44ad;
+}
+.navbar .navbar-nav .nav-item.active .nav-link,
+.navbar .navbar-nav .nav-item.active .nav-link:hover,
+.navbar .navbar-nav .nav-item.active .nav-link:focus,
+.navbar .navbar-nav .nav-item.show .nav-link,
+.navbar .navbar-nav .nav-item.show .nav-link:hover,
+.navbar .navbar-nav .nav-item.show .nav-link:focus {
+    color: #dbfffa;
+    background-color: #8e44ad;
+}
+.navbar .navbar-toggle {
+    border-color: #8e44ad;
+}
+.navbar .navbar-toggle:hover,
+.navbar .navbar-toggle:focus {
+    background-color: #8e44ad;
+}
+.navbar .navbar-toggle .navbar-toggler-icon {
+    color: #ecf0f1;
+}
+.navbar .navbar-collapse,
+.navbar .navbar-form {
+    border-color: #ecf0f1;
+}
+.navbar .navbar-link {
+    color: #ecf0f1;
+}
+.navbar .navbar-link:hover {
+    color: #dbfffa;
+}
+
+@media (max-width: 575px) {
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #ecf0f1;
+    }
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #dbfffa;
+    }
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #dbfffa;
+        background-color: #8e44ad;
+    }
+}
+
+@media (max-width: 767px) {
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #ecf0f1;
+    }
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #dbfffa;
+    }
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #dbfffa;
+        background-color: #8e44ad;
+    }
+}
+
+@media (max-width: 991px) {
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #ecf0f1;
+    }
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #dbfffa;
+    }
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #dbfffa;
+        background-color: #8e44ad;
+    }
+}
+
+@media (max-width: 1199px) {
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #ecf0f1;
+    }
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #dbfffa;
+    }
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #dbfffa;
+        background-color: #8e44ad;
+    }
+}
+
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item {
+    color: #ecf0f1;
+}
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+    color: #dbfffa;
+}
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item.active {
+    color: #dbfffa;
+    background-color: #8e44ad;
+}

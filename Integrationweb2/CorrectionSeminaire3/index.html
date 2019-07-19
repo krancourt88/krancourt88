@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Démo Bootstrap 2</title>
+<!-- LA LIGNE LA PLUS IMPORTANTE AU MONDE -->
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta charset="UTF-8">
+<!-- ORDRE EST IMPORTANT BOOTSTRAP AVANT NOTRE CSS -->
+<link rel="stylesheet" type="text/css" href="CSS/bootstrap.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+    <link rel="stylesheet" type="text/css" href="CSS/style.css">
+</head>
+<body>
+<!--Nom (court texte)
+Prénom (court texte)
+Sujet de la demande d’aide (liste déroulante présentant les différents modules étudiés, HTML, CSS, Bootstrap, Positionnement des divisions, etc.)
+Question (texte long)
+Priorité (boutons radio offrant les options Urgent, Important, Peut attendre)
+Bouton Effacer (reset)
+Bouton Envoyer, le formulaire doit diriger l’utilisateur vers la page LaPlage.php
+-->
+<div class="container">
+    <h1>FORMULAIRE DE DEMANDE D'AIDE EN LIGNE</h1>
+    <form action="formulaireEnvoye.html">
+        <div class="form-group">
+            <label for="nom">Nom:</label>
+            <input type="text" class="form-control" id="nom" placeholder="Entrer votre nom ici">
+        </div>
+        <div class="form-group">
+            <label for="prenom">Prénom:</label>
+            <input type="text" class="form-control" id="prenom" placeholder="Entrer votre prénom ici">
+        </div>
+        <div class="form-group">
+            <label for="matiere">Matière de l'aide demandée</label>
+            <select class="form-control" id="matiere">
+                <option>HTML5</option>
+                <option>CSS3</option>
+                <option>Bootstrap</option>
+                <option>Media Queries</option>
+                <option>JavaScript</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="question">Entrez votre question pour le professeur</label>
+            <textarea class="form-control" id="question" rows="3"></textarea>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" type="radio" name="priorite" id="priorite1" value="urgent" checked>
+            <label class="form-check-label" for="priorite1">
+                Urgent
+            </label>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" type="radio" name="priorite" id="priorite2" value="important">
+            <label class="form-check-label" for="priorite2">
+                Important
+            </label>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" type="radio" name="priorite" id="priorite3" value="peutAttendre">
+            <label class="form-check-label" for="priorite3">
+                Peut attendre
+            </label>
+        </div>
+
+        <input type="reset" value="Reset" />
+        <input type="submit" value="Envoyer" />
+
+
+    </form>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="js/bootstrap.js"></script>
+</body>
+</html>
